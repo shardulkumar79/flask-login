@@ -21,7 +21,7 @@ Install the extension with pip:
 $ pip install flask-login
 ```
 
-## Usage
+## Usage 
 
 Once installed, the Flask-Login is easy to use. Let's walk through setting up
 a basic application. Also please note that this is a very basic guide: we will
